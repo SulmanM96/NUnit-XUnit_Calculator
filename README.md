@@ -1,4 +1,4 @@
-# Sparta_Global_NUnit-XUnit_Calculator
+# NUnit-XUnit_Calculator
 Tested Calculator functions agaisnt two types of tests including NUnit and XUnit would when then look at the parameters of the test.
 
 Prerequisites
